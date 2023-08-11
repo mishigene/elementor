@@ -1,0 +1,7 @@
+target/
+/.idea/
+/target/
+/src/test/resources/infinitAutomation/Configurations/local.sla.io.elementor.infra.config.json
+/src/test/resources/infinitAutomation/Configurations/local.settings.io.elementor.infra.config.json
+/src/test/resources/logback-test.xml
+/test/vids
